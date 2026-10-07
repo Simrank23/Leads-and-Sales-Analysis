@@ -1,6 +1,7 @@
 In this Excel Project, I started with the data cleaning and transformation. 
 Builded a full fledged Dashboard that can answer a lot of questions.
 Dashboard Contains: 
+
 **KPI's- **
 ● Total Leads
 ● New Leads
@@ -8,24 +9,29 @@ Dashboard Contains:
 ● Lost Leads
 ● Converted Leads (if applicable)
 ● Conversion Rate
+
 **Seller Performance**
 ● Leads Assigned per Seller
 ● Qualified Leads per Seller
 ● Conversion %
 ● Average Expected Margin
 ● Average Order Value
+
 **Destination Analysis**
 ● Top Destinations by Lead Volume
 ● Destination-wise Expected Margin
-● Destination-wise Revenue (if available)
+● Destination-wise Revenue
+
 **Lead Source Analysis**
 ● Lead Source Distribution
 ● Best Performing Lead Source
 ● Lowest Performing Lead Source
+
 **Follow-up Analysis**
 ● Pending Follow-ups
 ● Overdue Follow-ups
 ● Leads without Next Follow-up Date
+
 **Travel Trends**
 ● Travel Month Distribution
 ● Departure City Distribution
